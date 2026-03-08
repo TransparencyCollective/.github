@@ -20,7 +20,7 @@ Maintained by a decentralized network of citizens, developers, and legal advocat
 
 All active investigations, digitized government responses, and data analysis are maintained in our central repository. This functions as our open database and operational tracker.
 
-**[Read our full methodology and browse active RTI cases here.](https://github.com/TransparencyCollective/RTIs)**
+**[Read more and browse RTI cases here.](https://github.com/TransparencyCollective/RTIs)**
 
 ---
 
